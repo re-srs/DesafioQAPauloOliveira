@@ -1,0 +1,1 @@
+texto = input("Digite uma palavra ou frase: ")

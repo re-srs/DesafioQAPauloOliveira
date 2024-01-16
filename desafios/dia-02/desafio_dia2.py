@@ -1,3 +1,4 @@
+
 option = int(input('Selecione a operacao \n - 1-Soma\n - 2-Subtracao\n - 3-Divisao\n - 4-Multiplicacao\n - Digite a operacao:'))
 
 
